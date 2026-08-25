@@ -70,8 +70,7 @@ Loan-Approval-Prediction/
 ├── Loan_prediction.py
 ├── loan.csv
 ├── README.md
-└── docs/
-    ├── Loan_Approval_Prediction_Project_Report.docx
-    ├── Loan Approval.pptx
-    └── Loan_Screenshots.docx
+├── Project_Report.docx
+├── Presentation.pptx
+└── Screenshots.docx
 ```
